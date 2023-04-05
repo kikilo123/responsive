@@ -1,0 +1,21 @@
+@media(max-width:1175px) {
+    .marjvena {
+        width: 250px;
+        height: 250px;
+        background-color: black;
+    }
+}
+@media (max-width:1175px) {
+    .marcena{
+        width: 250px;
+        height: 250px;
+        background-color: rgb(17, 235, 188);
+    }
+}
+@media (max-width:507px) {
+    .wrap{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+}
